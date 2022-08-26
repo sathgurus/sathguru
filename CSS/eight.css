@@ -1,0 +1,38 @@
+.a1{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-color: aqua;
+    
+}
+.a2{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: blue;
+}
+.a3{
+    text-decoration: line-through;
+    text-decoration-style: double;
+    text-decoration-color: brown;
+}
+.a4{
+    text-decoration: overline;
+    text-decoration-style: solid;
+    text-decoration-color: chartreuse;
+}
+.a5{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: darkorange;
+    text-shadow: 12px 20px 10px aqua;
+}
+.a6{
+    text-decoration: line-through;
+    text-decoration-style: none;
+    text-decoration-color: deeppink;
+    text-indent: 40px;
+}
+p{
+    word-spacing: 10px;
+    letter-spacing: none;
+    text-align: justify;
+}

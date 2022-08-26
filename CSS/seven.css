@@ -1,0 +1,9 @@
+.a1{
+    text-transform: capitalize;
+}
+.a2{
+    text-transform: uppercase;
+}
+.a3{
+    text-transform: lowercase;
+}
