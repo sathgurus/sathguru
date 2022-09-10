@@ -1,0 +1,14 @@
+table{
+    background-color: deepskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding: 10px;
+    height:500px;
+    width: 800px;
+    text-align: center;
+    table-layout: auto;
+    border-collapse: collapse;
+    border-radius: 12px;border-style: dashed;
+  
+}

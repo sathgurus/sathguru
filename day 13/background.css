@@ -1,0 +1,7 @@
+.a{
+    background-image: url('te.jpg');
+    background-repeat: repeat-y;
+    background-position: bottom;
+    border:12px double blue;
+    border-radius: 50px;
+}

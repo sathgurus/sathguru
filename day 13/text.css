@@ -1,0 +1,27 @@
+.a{
+    background-color: aqua;
+}
+.b{
+    text-align: center;
+    text-decoration: line-through;
+}
+.c{
+    text-transform: capitalize;
+    text-indent: 30px;
+}
+.d{
+    background-color: blueviolet;
+    text-shadow: 12px 20px;
+}
+.e{
+    background-color: chartreuse;
+    word-spacing: 10px;
+    letter-spacing: 4px;
+    align-content: center;
+}
+.f{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    text-decoration-style:double;
+}

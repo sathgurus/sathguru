@@ -1,0 +1,14 @@
+.first{
+    background-color: black;
+    color: aqua;
+    opacity: 0.2;
+    height: 200px;
+    width: 400px;
+}
+.second{
+    background-color:chartreuse;
+    color: crimson;
+    opacity: 0.6;
+    height: 200px;
+    width: 400px;
+}

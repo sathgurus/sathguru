@@ -1,0 +1,13 @@
+ul li{
+    background-color: aqua;
+    display: inline;
+}
+.a{
+    background-color: blueviolet;
+    display: inline-block;
+}
+.b{
+    background-color: black;
+    display:block;
+    color: aqua;
+}
