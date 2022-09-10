@@ -1,0 +1,80 @@
+.box1{
+    background-image: url('chatbg.png');
+    margin-left: 500px;
+    height:600px;
+    width: 400px;
+
+    
+}
+.heading{
+    background-color: #323f4b;
+    color: #ffffff;
+    text-align: center;
+    height:80px;
+    padding-top: 2px;
+}
+.hi{
+    background-color: #47a3f3;
+    width: 200px;
+    margin-left: 180px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.chat{
+    background-color: #52606d;
+    width:150px;
+    margin-left: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.what{
+    background-color: #47a3f3;
+    width: 200px;
+    margin-left: 180px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+
+}
+.good{
+    background-color: #52606d;
+    width:200px;
+    margin-left: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.super{
+    background-color: #47a3f3;
+    width: 150px;
+    margin-left: 230px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.had{
+    background-color: #52606d;
+    width:200px;
+    margin-left: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.done{
+    background-color: #47a3f3;
+    width: 250px;
+    margin-left: 130px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+.done2{
+    background-color: #52606d;
+    width:200px;
+    margin-left: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}

@@ -1,0 +1,81 @@
+body{
+    background-color: #76d7c4;
+}
+.chat{
+    height:620px;
+    width:400px;
+    background-color:#FF5733;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+h1{
+    color:black;
+    text-align: center;
+    float: right;
+    margin-right: 160px;
+    
+}
+hr{
+    color: black;
+}
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+h4{
+    background-color: white;
+    width: 100px;
+    margin-left: 10px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 10px;
+}
+.a{
+    background-color:white;
+    width: 100px;
+    margin-left:270px ;
+}
+.b{
+    background-color:white;
+    width: 100px;
+    margin-left: 10px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 10px;
+}
+.c{
+    background-color: white;
+    width: 100px;
+    margin-left:270px ;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}
+.d{
+    background-color:white;
+    width: 100px;
+    margin-left:270px ;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+.e{
+    background-color: white;
+}
+.f{
+    background-color: white;
+    width: 100px;
+    margin-left:270px ;
+}
+input{
+    height:20px;
+    width:300px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+}
