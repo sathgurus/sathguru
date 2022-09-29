@@ -1,0 +1,24 @@
+class a
+{
+ int id=20;
+}
+class b extends a
+{
+ int a=super.id;
+ int b=20;
+ void sum()
+ {
+        int c;
+        c=a+b;
+        System.out.println("The sum of :"+c);
+ }
+}
+class basic1
+{
+ public static void main(String args[])
+ {
+  b s1=new b();
+  s1.sum();
+  System.out.println("Sub class object:"+s1.id);
+ }
+}
