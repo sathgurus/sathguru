@@ -1,0 +1,152 @@
+.col-1{width:8.33%;float:left;}
+.col-2{width:16.66%;float:left;}
+.col-3{width:25%;float:left;}
+.col-4{width:33.33%;float:left;}
+.col-5{width:41.66%;float:left;}
+.col-6{width:50%;float: left;}
+.col-7{width:58.33%;float:left;}
+.col-8{width:66.66%;float: left;}
+.col-9{width:75%;float:left;}
+.col-10{width:83.33%;float:left;}
+.col-11{width:91.66%;float:left;}
+.col-12{width:100%;float:left;}
+
+@media only screen and (max-width:600px){
+    
+    [class *="col-"]
+    {
+        width:100%;
+    }
+}
+
+body{
+    background-color: rgb(255, 165, 0);
+}
+h4{
+    background-color: black;
+    width:220px;
+    margin-left: 30px;
+    color:rgb(255, 165, 0);
+}
+.container-fluid{
+      height: 150vh;
+      width:50%;
+      margin-left: 30px;
+}
+ul li{
+    list-style-type: none;
+    color:white;
+    display:inline-block;
+    float:right;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card1{
+
+    height:300px;
+    width:600px;
+    margin-top: 20px;
+
+
+}
+h3{
+    background-color: rgb(255, 165, 0);
+    width:170px;
+    border:1px solid black;
+    padding: 5px;
+}
+.div1{
+    text-align: center;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.div1 p{
+    text-align: center;
+    color: rgb(255, 165, 0);
+}
+.div2 img{
+    height:150px;
+    width:150px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.div2 p{
+    font-size: small;
+    color:white;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.div2 button{
+    margin-left: 20px;
+}
+
+.div3 img{
+    height:150px;
+    width:150px;
+    margin-top: 10px;
+    position: absolute;
+    top:546px;
+    margin-left: 150px;
+    margin-right: 20px;
+}
+.div3 p{
+    text-align: center;
+    font-size: small;
+    color:white;
+    margin-right: 9px;
+    position: absolute;
+    top:707px;
+    margin-left: 300px;
+}
+
+.div3 button{
+    width:100px;
+    margin-left: 150px;
+    margin-right: 70px;
+    position: absolute;
+    top:740px;
+    padding:2px;
+}
+
+.div4 img{
+    height:150px;
+    width:150px;
+    margin-top: 10px;
+    position: absolute;
+    top:546px;
+    margin-left: 230px;
+}
+.div4 p{
+    text-align: center;
+    font-size: small;
+    color:white;
+    
+    position: absolute;
+    top:707px;
+    margin-left: 230px;
+}
+
+.div4 button{
+    width:100px;
+    margin-left: 230px;
+    margin-right: 50px;
+    position: absolute;
+    top:740px;
+    padding:2px;
+}
+.images{
+    height:250px;
+}
+
+.container-fluid1{
+      
+    margin-top: 20px;
+    background-color:#CECECE;
+    height:150px;
+    text-align: center;
+    
+
+}
+.container-fluid1 h1{
+    color:black;
+}
