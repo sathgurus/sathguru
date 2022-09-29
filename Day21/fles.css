@@ -1,0 +1,12 @@
+.bg-container{
+
+    height:100vh;
+    background-image: url('f1.jpg');
+    background-size: cover;
+}
+.card1{
+    height:200px;
+    background-color:bisque;
+    text-align: center;
+    border-radius: 10px;
+}

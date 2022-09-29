@@ -1,0 +1,12 @@
+.layout{
+    background-image:url('f2.webp');
+    height:100vh;
+    background-size: cover;
+
+}
+.card1{
+    height:400px;
+    width:1000px;
+    
+    margin:0 auto;
+}

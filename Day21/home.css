@@ -1,0 +1,29 @@
+.hcontainer{
+    height:200vh;
+    background-image: url('f1.jpg');
+    background-size: cover;
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hcard{
+    
+    margin-top: 10px;
+    color: black;
+    opacity: 1;
+    border:1px solid black;
+    
+    
+}
+.hcard img{
+    height:400px;
+    width:400px;
+    
+}
+.hcard:hover{
+
+    background-color:blanchedalmond;
+    
+    cursor: grab;
+}
