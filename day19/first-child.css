@@ -1,0 +1,12 @@
+ol{
+    padding:0;
+}
+   
+ol li{
+    padding:10px;
+    border-top:5px solid black;
+    list-style-type: none;
+}
+li:last-child{
+    border-top: none;
+}

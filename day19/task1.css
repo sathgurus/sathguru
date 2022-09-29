@@ -1,0 +1,94 @@
+.col-1{width:8.33%;float:left;}
+.col-2{width:16.66%;float:left;}
+.col-3{width:25%;float:left;}
+.col-4{width:33.33%;float:left;}
+.col-5{width:41.66%;float:left;}
+.col-6{width:50%;float: left;}
+.col-7{width:58.33%;float:left;}
+.col-8{width:66.66%;float: left;}
+.col-9{width:75%;float:left;}
+.col-10{width:83.33%;float:left;}
+.col-11{width:91.66%;float:left;}
+.col-12{width:100%;float:left;}
+
+@media only screen and (max-width:600px){
+    
+    [class *="col-"]
+    {
+        width:100%;
+    }
+}
+
+
+
+.menu{
+    background-color: dodgerblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.menu ul li{
+    display: inline-block;
+    
+    margin-left: 80px;
+    color: white;
+    font-size: 20px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover{
+       background-color:aqua;
+       color: black;
+    
+}
+ul img{
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.products ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    
+}
+.products ul li{
+    color: black;
+   margin-bottom: 10px;
+   padding: 5px;
+    background-color:cyan;
+    font-size: larger;
+    font-weight: bolder;
+    
+    
+    
+    
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display:block;
+}
+
+.womens p{
+
+    font-size: medium;
+    font-weight: bolder;
+    font-family: Arial (sans-serif);
+}
+
+.mens p{
+
+    font-size: medium;
+    font-weight: bolder;
+    font-family: Arial (sans-serif);
+
+}
+
+
+
+
+
