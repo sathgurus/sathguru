@@ -1,0 +1,133 @@
+.container-fluid{
+    height:300vh;
+}
+
+.container{
+    height:300vh;
+}
+.container h1{
+
+    text-align: center;
+    color:white;
+    padding-top:18px;
+}
+.container p{
+    text-align: center;
+    color:goldenrod;
+}
+.second h5{
+
+    color: black;
+    
+}
+
+.first h5{
+
+    color:black;
+    
+}
+.second h1{
+
+    color: black;
+    
+}
+
+.first h1{
+
+    color:black;
+    
+}
+.second p,h1{
+
+    text-align: justify;
+    
+}
+
+.first p,h1{
+
+    text-align: justify;
+    
+}
+.second p,h1{
+
+    text-align: justify;
+    
+}
+
+.first p,h1{
+
+    text-align: justify;
+    
+}
+.div5 h4{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.div6 {
+
+    text-align: center;
+
+}
+/* .div7 h3{
+
+    text-align: center;
+
+}
+.div8 h3{
+
+    text-align: center;
+
+}
+/* .div6 btn1{ */
+
+
+/* .div7 btn1{
+
+    margin-left:20px;
+
+}
+.div8 btn{
+
+    margin-left:20px;
+
+} */
+
+.five {
+    background-image: url('https://www.usnews.com/object/image/0000017f-e69a-d797-a57f-f79fcccc0000/gettyimages-1252716394.jpg?update-time=1648841378052&size=responsive640');
+    height:300px;
+    background-size: cover;
+    text-align: center;
+    opacity:0.8;
+    
+}
+.five h1{
+    color:black;
+    
+}
+.form-inline{
+
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.div7 h1{
+
+    text-align: left;
+    color:goldenrod;
+
+}
+.div8 ul li{
+
+    list-style-type: none;
+    color:goldenrod;
+    
+}
+
+.main{
+    background-image: url('https://ychef.files.bbci.co.uk/976x549/p099qg44.jpg');
+    background-size: cover;
+
+}
+
