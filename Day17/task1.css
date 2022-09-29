@@ -1,0 +1,62 @@
+.back{
+    height:100vh;
+    background-image: url('b6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    background-image: url('b7.jpg');
+    height:400px;
+    width:400px;
+    /* position: absolute;
+    top:670px;
+    margin-left: 10px; */
+}
+.main{
+    display: flex;
+}
+p{
+    
+    width:800px;
+    margin-left: 50px;
+}
+button{
+    margin-left: 200px;
+    padding: 15px;
+    width:100px;
+    background-color: crimson;
+}
+
+/* next code mobile */
+@media only screen and (max-width:820px);
+{
+    .back{
+        height:100vh;
+        background-image: url('b1.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .text{
+        background-image: url('b7.jpg');
+        height:400px;
+        width:400px;
+        /* position: absolute;
+        top:670px;
+        margin-left: 10px; */
+    }
+    .main{
+        display: flex;
+    }
+    p{
+        
+        width:800px;
+        margin-left: 50px;
+    }
+    button{
+        margin-left: 200px;
+        padding: 15px;
+        width:100px;
+        background-color: crimson;
+    }
+
+}
