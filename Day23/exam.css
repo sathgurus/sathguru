@@ -1,0 +1,76 @@
+body{
+    background-color: goldenrod;
+
+}
+nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: large;
+    display:inline-block;
+    margin-left: 30px;
+    color:white;
+}
+.bg{
+    border-radius: 3px;
+    color: white;
+}
+
+nav ul li:hover{
+    border:1px solid black;
+    border-radius: 3px;
+
+}
+.div3 img{
+    
+    height:500px;
+    
+}
+.main h1{
+
+    padding-top:80px ;
+}
+
+.music{
+    background-color:bisque;
+    border:2px solid white;
+    padding:10px;
+    border-radius: 10px;
+
+   
+
+}
+.photography{
+    background-color:bisque;
+    border:2px solid white;
+    padding:10px;
+    border-radius: 10px;
+
+}
+.marketing{
+    background-color:bisque;
+    border:2px solid white;
+    padding:10px;
+    border-radius: 10px;
+   
+}
+.div4{
+    /* background-color:bisque; */
+    text-align: center;
+    
+}
+.div6 img{
+
+    height:200px;
+    width:200px;
+}
+/* .second{
+
+    height:100px;
+    width:100px;
+}
+
+.third{
+
+    height:100px;
+    width:100px;
+} */ */
