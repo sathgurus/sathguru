@@ -54,7 +54,7 @@
 .container{
   background-color:cadetblue;
   height:90vh;
-  box-shadow:10px 8px 10px rgb(85, 86, 86) ;
+  box-shadow:10px 8px 20px rgb(85, 86, 86) ;
   margin-top: 20px;
 }
 .table-responsive{
