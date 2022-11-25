@@ -123,10 +123,6 @@ export default function Codingregister(){
             <div className="col-lg-3"></div>
            </div>
            </div>
-
-
-
-
         </>
     );
 }
