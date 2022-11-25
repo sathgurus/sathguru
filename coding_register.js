@@ -46,7 +46,7 @@ export default function Codingregister(){
                   window.location.href="./";
               }
             })
-            .catch(function(err){
+             .catch(function(err){
               alert(err);
               window.location.reload();
             })
@@ -124,5 +124,8 @@ export default function Codingregister(){
            </div>
            </div>
         </>
+
+
+
     );
 }
